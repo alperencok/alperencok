@@ -25,5 +25,4 @@ I am an engineering student pursuing Artificial Intelligence and Data Engineerin
 
 ## Contact
 
-- GitHub: [github.com/alperencok](https://github.com/alperencok)
 - LinkedIn: [linkedin.com/in/alperencok](www.linkedin.com/in/alperencok)

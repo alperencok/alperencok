@@ -1,6 +1,4 @@
-# alperencok
-
-Undergraduate student in Artificial Intelligence and Data Engineering. Focused on backend development, data processing workflows, and applied machine learning / retrieval systems. Actively experimenting across different technology stacks to build robust software systems.
+I am an engineering student pursuing Artificial Intelligence and Data Engineering, with hands-on project experience in generative AI and machine learning. I have delivered practical projects through internship and bootcamp programs at institutions such as the Istanbul Metropolitan Municipality, Microsoft, and HUAWEI, and developed my teamwork and organizational skills through student representation and club leadership on campus.
 
 ---
 
